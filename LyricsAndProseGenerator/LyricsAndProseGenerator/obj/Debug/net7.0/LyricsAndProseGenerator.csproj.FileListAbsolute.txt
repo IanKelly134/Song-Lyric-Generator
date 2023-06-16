@@ -1,0 +1,15 @@
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\bin\Debug\net7.0\LyricsAndProseGenerator.exe
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\bin\Debug\net7.0\LyricsAndProseGenerator.deps.json
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\bin\Debug\net7.0\LyricsAndProseGenerator.runtimeconfig.json
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\bin\Debug\net7.0\LyricsAndProseGenerator.dll
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\bin\Debug\net7.0\LyricsAndProseGenerator.pdb
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\obj\Debug\net7.0\LyricsAndProseGenerator.csproj.AssemblyReference.cache
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\obj\Debug\net7.0\LyricsAndProseGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\obj\Debug\net7.0\LyricsAndProseGenerator.AssemblyInfoInputs.cache
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\obj\Debug\net7.0\LyricsAndProseGenerator.AssemblyInfo.cs
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\obj\Debug\net7.0\LyricsAndProseGenerator.csproj.CoreCompileInputs.cache
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\obj\Debug\net7.0\LyricsAndProseGenerator.dll
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\obj\Debug\net7.0\refint\LyricsAndProseGenerator.dll
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\obj\Debug\net7.0\LyricsAndProseGenerator.pdb
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\obj\Debug\net7.0\LyricsAndProseGenerator.genruntimeconfig.cache
+C:\Users\IAN_KELLY\source\repos\LyricsAndProseGenerator\LyricsAndProseGenerator\obj\Debug\net7.0\ref\LyricsAndProseGenerator.dll
